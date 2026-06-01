@@ -9,7 +9,7 @@ Official implementation of the ACM TKDD paper:
 - The code is developed using python 3.9 on Ubuntu 20.04.5 LTS. 
 - Install dependencies: `pip install -r requirements.txt`
 
-## Watermark-removing Attacks
+## Watermark-Removing Attacks
 
 - Run scripts in ~/attack_channel/*.py to attack.
 - Details of attack related parameters can be found at args_parse, --help in each ~/attack_channel/*.py file.
